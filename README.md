@@ -1,7 +1,7 @@
 # PythonTutorial
 Tutorial with examples for python <br />
 
-https://www.youtube.com/watch?v=us7y0UhTq0s - курс лекций от МФТИ <br />
+http://cs.mipt.ru/python - курс лекций от МФТИ <br />
 
 # Работа в интерактивном режиме
 
