@@ -3,6 +3,8 @@ Tutorial with examples for python <br />
 
 http://cs.mipt.ru/python - курс лекций от МФТИ <br />
 
+https://python-scripts.com <br />
+
 # Работа в интерактивном режиме
 
 ovtin@Lenovo:~$ python3.5 <br />
